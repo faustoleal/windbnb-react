@@ -50,7 +50,7 @@ const Navbar = ({
               <Location el={el} key={el.id} setSearch={setSearch} />
             ))}
           </div>
-          <button type="button" className="btn-responsive">
+          <button type="button" className="btn-responsive" onClick={filtrar}>
             <span className="material-symbols-outlined icono">search</span>
             <p>Search</p>
           </button>

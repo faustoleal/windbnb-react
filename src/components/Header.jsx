@@ -59,7 +59,6 @@ const Header = ({ data, search, setSearch, setDb, initialDb }) => {
   }
 
   function filtrar() {
-    console.log(form);
     if (form.id === 1) {
       setDb(initialDb.filter((el) => el.city === "Helsinki"));
       setOpen(false);
