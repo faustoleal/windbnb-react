@@ -11,10 +11,10 @@ Herramientas
 
 Version de Escritorio
 
-![Escritorio](/my-windbnb/img/windbnb-desktop.png)
+![Escritorio](img/windbnb-desktop.png)
 
 Version Mobile
 
-![Mobile](/my-windbnb/img/windbnb-mobile.png)
+![Mobile](img/windbnb-mobile.png)
 
 [Ver pagina](https://faustoleal.github.io/windbnb-react/)
