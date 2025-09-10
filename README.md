@@ -1,4 +1,4 @@
-# ToDo
+# Windbnb
 
 Proyecto _React + Vite_ basada en un desafío de [https://devchallenges.io/](https://devchallenges.io/) que consiste en realizar un app web de una copia de Airbnb llamada Windbnb.
 
