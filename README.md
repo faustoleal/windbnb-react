@@ -41,7 +41,7 @@ npm install
 Correr proyecto de forma local:
 
 ```bash
-git clone https://faustoleal.github.io/windbnb-react/
+npm run dev
 ```
 
 ### Más información
